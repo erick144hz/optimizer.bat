@@ -21,6 +21,7 @@ Usuários que desejam melhorar a performance do PC sem comprometer a segurança 
 2. Siga as instruções para rodá-lo em seu sistema.
 3. Certifique-se de que você possui permissões administrativas para realizar as otimizações.
 
+#                                         **Previa optimizer**
 
-![Optimizer Image](https://github.com/erick144hz/optimizer.bat/raw/main/assets/optimizer.png)
+![Optimizer Image](https://github.com/erick144hz/optimizer.bat/blob/main/optimizer.png?raw=true)
 
